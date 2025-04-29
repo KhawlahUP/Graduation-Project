@@ -8,9 +8,15 @@ This folder contains 3D printable STL files used in the Smart Glasses Remote Con
 |----------------------------------|-------------------------------------------------------------------|
 | `sensor.stl`                     | Mount or holder for the soil moisture sensor.                    |
 | `Motor_Bracket_Large_Version.STL`| Large motor bracket designed to fit on wider frame surfaces.     |
-| `Motor_Bracket_Mini_Version.STL` | Smaller bracket suitable for compact areas.                      |
-| `Bottom_Slots_SM.stl`            | Base structure with slots for attaching electronics like NodeMCU.|
-| `Pinion_Gear_Large_Version.STL`  | Large gear part used for motor rotation or movement mechanisms.  |
+| `Motor_Bracket_Mini_Version.STL` | Compact motor bracket suitable for tight spaces.                 |
+| `Bottom_Slots_SM.stl`            | Base platform with slots for mounting electronics like NodeMCU.  |
+| `Pinion_Gear_Large_Version.STL`  | Large gear used in motor-driven movement mechanisms.             |
+| `Pinion_Gear_Mini_Version.STL`   | Smaller gear for lightweight or space-constrained applications.  |
+
+
+## Demo
+
+🎥 [Download Demo Video](media/demo.mp4)
 
 ## Notes
 
@@ -19,7 +25,3 @@ This folder contains 3D printable STL files used in the Smart Glasses Remote Con
 - Recommended materials: **PLA** or **PETG**.
 - All dimensions are in **millimeters (mm)**.
 - Make sure to verify scale in your slicer software before printing.
-
----
-
-Feel free to modify the designs using any CAD software if needed.
