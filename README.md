@@ -1,6 +1,6 @@
 # Smart Glasses Remote Control (SGRC)
 
-![Project Logo](path-to-your-logo.png)
+![SGRC](https://github.com/user-attachments/assets/a12ee6f2-d39f-426e-a3f7-d9a77aa35d9d)
 
 ## Overview
 Smart Glasses Remote Control (SGRC) is an innovative wearable system that allows users to control IoT devices using hand and head gestures captured by smart glasses. Utilizing AI technologies like gesture recognition and object detection, the system enables touch-free interaction with smart home appliances.
@@ -10,11 +10,11 @@ Smart Glasses Remote Control (SGRC) is an innovative wearable system that allows
 ---
 
 ## Features
-- ✨ Hand gesture-based control of lights, fans, and appliances
-- 🧐 Object detection and environmental awareness
-- 📻 Wireless communication between devices (MQTT protocol)
-- 🫵 Designed for ease of use, accessibility, and real-time response
-- 👉 Suitable for smart homes, healthcare environments, and more
+- Hand gesture-based control of lights, fans, and appliances
+- Object detection and environmental awareness
+- Wireless communication between devices (MQTT protocol)
+- Designed for ease of use, accessibility, and real-time response
+- Suitable for smart homes, healthcare environments, and more
 
 ---
 
@@ -25,13 +25,12 @@ Smart Glasses Remote Control (SGRC) is an innovative wearable system that allows
 
 ```mermaid
 graph TD
-    User -->|Gestures| Camera
-    Camera -->|Video Feed| RaspberryPi
-    RaspberryPi -->|MQTT| ESP8266
-    ESP8266 -->|Control| IoT Devices
+    User[👤 User] -->|🖐️ Gestures| Camera[📷 Camera]
+    Camera -->|🎥 Video Feed| RaspberryPi[🍓 Raspberry Pi]
+    RaspberryPi -->|📡 MQTT| ESP8266[📶 ESP8266]
+    ESP8266 -->|🔌 Control| IoT_Devices[🏠 IoT Devices]
 ```
 
----
 
 ## Installation and Usage
 
