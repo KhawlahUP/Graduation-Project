@@ -1,6 +1,6 @@
 # 🏷 Sprint 1: Hardware Setup and Initial Connection
 
-🗓 Date: [Insert Date Here]
+🗓 Date: [2024/02/08]
 
 ## 🎯 Objective
 Set up the hardware components and establish connections between the Raspberry Pi, USB camera, and ESP32.
@@ -13,20 +13,9 @@ Set up the hardware components and establish connections between the Raspberry P
 - Powered and connected the ESP32 to the Raspberry Pi.
 - Tested communication between all devices.
 
----
 
-## 💻 Files and Folders
-
-| File/Folder    | Description                                |
-|----------------|--------------------------------------------|
-| `Code/`        | Scripts for connection and initial testing |
-| `Demo/`        | Images/videos showing hardware in action   |
-| `README.md`    | This documentation file                    |
-
----
-
-## 📷 Demo Video / Images
-- 🎬 **Demo Video**: [Insert Video Link Here]
+🎬 **Demo Video**  
+[Watch the video here](https://drive.google.com/file/d/1IwkVOmTodyrUNR6dN0xCQclAt6MLlxbG/view?usp=sharing)
 
 ---
 
