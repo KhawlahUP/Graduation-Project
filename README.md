@@ -44,7 +44,7 @@ graph TD
 ### Setup Instructions
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/smart-glasses-remote-control.git
+git clone https://github.com/your-KhawlahUP/Smart-Glasses-Remote-Control.git
 ```
 
 2. Install the required Python packages:
@@ -65,18 +65,66 @@ python server.py
 
 ---
 
-## Hardware List
-| Component | Description | Approximate Cost (SAR) |
-|-----------|-------------|-------------------------|
-| Raspberry Pi 4B | Main processing unit | 470 |
-| ESP8266 NodeMCU | IoT controller | 50 |
-| Web Camera | Captures hand movements | 350 |
-| Relay Module | Control high-voltage devices | 20 |
-| LEDs | Indicator lights | 5 |
-| 5V Fan | Ventilation control | 40 |
-| Battery Pack | Power source | 10 |
-| 3D Printed Case | Protection for hardware | 90 |
-| Jumper Wires | Circuit connections | 5 |
+## 🧩 Hardware Components
+
+<table>
+  <tr>
+    <th>Image</th>
+    <th>Component</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/nodemcu.jpg" width="100"/></td>
+    <td><strong>NodeMCU V3</strong></td>
+    <td>A Wi-Fi-enabled microcontroller (ESP8266) used to control smart devices wirelessly.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/relay.jpg" width="100"/></td>
+    <td><strong>Relay</strong></td>
+    <td>An electronically operated switch that enables devices like fans to be controlled via NodeMCU signals.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/led.jpg" width="100"/></td>
+    <td><strong>LED</strong></td>
+    <td>A light-emitting diode used as a visual indicator for system states or alerts.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/fan.jpg" width="100"/></td>
+    <td><strong>Mini Fan</strong></td>
+    <td>A compact 5V fan used for simple ventilation or as a demonstration of smart home appliances.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/transistor.jpg" width="100"/></td>
+    <td><strong>Transistor</strong></td>
+    <td>Acts as an electronic switch to control the voltage required to operate the relay from NodeMCU.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/battery_pack.jpg" width="100"/></td>
+    <td><strong>Battery Pack</strong></td>
+    <td>Holds 2xAA batteries to provide around 3V to power the circuit.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/charger.jpg" width="100"/></td>
+    <td><strong>Battery Charger</strong></td>
+    <td>A TP4056-based charging circuit used to safely recharge and protect Li-ion batteries.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/speaker.jpg" width="100"/></td>
+    <td><strong>Speaker</strong></td>
+    <td>A small speaker that delivers audible warnings or sound feedback when commands are triggered.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/raspberrypi.jpg" width="100"/></td>
+    <td><strong>Raspberry Pi</strong></td>
+    <td>A mini computer used for processing and interfacing the camera with the smart system.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/webcam.jpg" width="100"/></td>
+    <td><strong>Web Camera</strong></td>
+    <td>A digital camera that captures hand gestures and feeds them to recognition algorithms like MediaPipe.</td>
+  </tr>
+</table>
+
 
 ---
 
