@@ -1,7 +1,7 @@
 
 # 🏧 Sprint 6: System Optimization and Testing
 
-🗓 **Date**: [Insert Date]  
+🗓 **Date**: [2024/03/05]  
 🌟 **Goal**: Test all features and optimize overall system performance.
 
 ---
@@ -10,21 +10,6 @@
 - Comprehensive testing for hand tracking, device control, obstacle and face detection.
 - Performance enhancements for faster execution on Raspberry Pi.
 - Reduced communication delay between RPI and ESP32.
-
----
-
-## 💻 Files and Folders
-
-| File/Folder | Description |
-|-------------|-------------|
-| `Code/`     | Final optimized system code |
-| `Demo/`     | Video demonstrating all capabilities |
-| `README.md` | Documentation for this sprint |
-
----
-
-## 📷 Demo Video / Images
-- 🎮 **Demo Video**: [Video Link]
 
 ---
 
@@ -40,13 +25,6 @@
 | Push Buttons     | Manual activation/deactivation             |
 | Buzzer/Speaker   | Audio warning system                       |
 
----
-
-## ⚙️ How to Run
-
-```bash
-python main_system.py
-```
 
 ---
 
