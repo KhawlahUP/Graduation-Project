@@ -14,12 +14,5 @@
 
 ## 📷 Videos / Images
 
-- 🎬 **Demo Video**: [Watch the video here](https://drive.google.com/file/d/1IwkVOmTodyrUNR6dN0xCQclAt6MLlxbG/view?usp=sharing)
+[Watch the video here](https://drive.google.com/file/d/1Y8Nu9XhAeDZ4c80nMpw-peWhKzhwFOdK/view?usp=sharing)
 
----
-
-## ⚙️ How to Run the Code
-
-```bash
-# Run the RPi code that recognizes gestures and sends commands
-python gesture_control.py
