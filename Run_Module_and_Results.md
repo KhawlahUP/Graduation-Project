@@ -1,4 +1,4 @@
-## 🧠 5.8 Run Module
+## Run Module
 
 The **Run Module** acts as the central controller, integrating:
 - Hand-tracking module
@@ -36,9 +36,9 @@ It handles message subscriptions and executes the received commands by toggling 
 
 ---
 
-## 📈 5.9 Results
+## 📈 Results
 
-### ✋ 5.9.1 Hand Gesture Control
+### ✋Hand Gesture Control
 
 Using gestures (like raising fingers), users can wirelessly:
 - Turn LEDs ON/OFF
@@ -47,37 +47,55 @@ Using gestures (like raising fingers), users can wirelessly:
 #### 🔘 Gesture Examples:
 
 <div align="center">
-
-  <h4>Led 1 On</h4>
-  <img src="Diagram/Led%201%20On.jpg" width="200"/>
-
-  <h4>Led 1 Off</h4>
-  <img src="Diagram/Led%201%20Off.jpg" width="200"/>
-
-  <h4>All LEDs On</h4>
-  <img src="Diagram/All%20Leds%20On.jpg" width="200"/>
-
-  <h4>All LEDs Off</h4>
-  <img src="Diagram/All%20Leds%20Off.jpg" width="200"/>
-
-  <h4>Fan On</h4>
-  <img src="Diagram/Fan%20On.jpg" width="200"/>
-
-  <h4>Fan Off</h4>
-  <img src="Diagram/Fan%20Off.jpg" width="200"/>
-
-  <h4>Led 2 On</h4>
-  <img src="Diagram/Led%202%20On.jpg" width="200"/>
-
-  <h4>Led 2 Off</h4>
-  <img src="Diagram/Led%202%20Off.jpg" width="200"/>
-
+  <table>
+    <tr>
+      <td>
+        <h4>Led 1 On</h4>
+        <img src="Diagram/Led%201%20On.png" width="200"/>
+      </td>
+      <td>
+        <h4>Led 1 Off</h4>
+        <img src="Diagram/Led%201%20Off.png" width="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4>All LEDs On</h4>
+        <img src="Diagram/All%20Leds%20On.png" width="200"/>
+      </td>
+      <td>
+        <h4>All LEDs Off</h4>
+        <img src="Diagram/All%20Leds%20Off.png" width="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4>Fan On</h4>
+        <img src="Diagram/Fan%20On.png" width="200"/>
+      </td>
+      <td>
+        <h4>Fan Off</h4>
+        <img src="Diagram/Fan%20Off.png" width="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4>Led 2 On</h4>
+        <img src="Diagram/Led%202%20On.png" width="200"/>
+      </td>
+      <td>
+        <h4>Led 2 Off</h4>
+        <img src="Diagram/Led%202%20Off.png" width="200"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 ---
 
-### 🔍 5.9.2 Object Recognition
+### 🔍 Object Recognition
 
 Smart glasses detect nearby objects and provide **real-time feedback**, enabling smart interaction.
 
