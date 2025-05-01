@@ -128,14 +128,22 @@ python server.py
 
 ---
 
-## Media Section
-**Screenshots and Diagrams:**
+## Media 
+<div align="center">
+  <h3>Proposal Design Modules</h3>
+  <img src="Diagram/Proposal Design Modules.jpeg" width="400"/>
+</div>
 
-> ✨ **Add your screenshots here by uploading to GitHub and inserting the links below:**
+<div align="center">
+  <h3>Proposed System Block Diagram</h3>
+  <img src="Diagram/Proposed System Block Diagram.jpeg" width="400"/>
+</div>
 
-- ![System Architecture](path-to-architecture-diagram.png)
-- ![Hand Gesture Control Demo](path-to-gesture-demo.gif)
-- ![Object Detection in Action](path-to-object-detection-sample.png)
+<div align="center">
+  <h3>System Concept Description</h3>
+  <img src="Diagram/System Concept Description.jpeg" width="400"/>
+</div>
+
 
 ---
 
