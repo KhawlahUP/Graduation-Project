@@ -51,41 +51,41 @@ Using gestures (like raising fingers), users can wirelessly:
     <tr>
       <td>
         <h4>Led 1 On</h4>
-        <img src="Diagram/Led%201%20On.png" width="200"/>
+        <img src="Hand Gesture Control/Led%201%20On.png" width="200"/>
       </td>
       <td>
         <h4>Led 1 Off</h4>
-        <img src="Diagram/Led%201%20Off.png" width="200"/>
+        <img src="Hand Gesture Control/Led%201%20Off.png" width="200"/>
       </td>
     </tr>
     <tr>
       <td>
         <h4>All LEDs On</h4>
-        <img src="Diagram/All%20Leds%20On.png" width="200"/>
+        <img src="Hand Gesture Control/All%20Leds%20On.png" width="200"/>
       </td>
       <td>
         <h4>All LEDs Off</h4>
-        <img src="Diagram/All%20Leds%20Off.png" width="200"/>
+        <img src="Hand Gesture Control/All%20Leds%20Off.png" width="200"/>
       </td>
     </tr>
     <tr>
       <td>
         <h4>Fan On</h4>
-        <img src="Diagram/Fan%20On.png" width="200"/>
+        <img src="Hand Gesture Control/Fan%20On.png" width="200"/>
       </td>
       <td>
         <h4>Fan Off</h4>
-        <img src="Diagram/Fan%20Off.png" width="200"/>
+        <img src="Hand Gesture Control/Fan%20Off.png" width="200"/>
       </td>
     </tr>
     <tr>
       <td>
         <h4>Led 2 On</h4>
-        <img src="Diagram/Led%202%20On.png" width="200"/>
+        <img src="Hand Gesture Control/Led%202%20On.png" width="200"/>
       </td>
       <td>
         <h4>Led 2 Off</h4>
-        <img src="Diagram/Led%202%20Off.png" width="200"/>
+        <img src="Hand Gesture Control/Led%202%20Off.png" width="200"/>
       </td>
     </tr>
   </table>
@@ -100,6 +100,13 @@ Using gestures (like raising fingers), users can wirelessly:
 Smart glasses detect nearby objects and provide **real-time feedback**, enabling smart interaction.
 
 <div align="center">
-  <h4>Figure 5.8 – Object Recognition Samples</h4>
-  <img src="Diagram/Object Recognition Samples.jpg" width="400"/>
+  <h4>Phone</h4>
+  <img src="Sprint/Sprint-7_Final-Delivery/test_images/phone.jpeg" width="200"/>
+
+  <h4>Laptop</h4>
+  <img src="Sprint/Sprint-7_Final-Delivery/test_images/laptop.jpeg" width="200"/>
+
+  <h4>Chair</h4>
+  <img src="Sprint/Sprint-7_Final-Delivery/test_images/chair.jpeg" width="200"/>
 </div>
+
