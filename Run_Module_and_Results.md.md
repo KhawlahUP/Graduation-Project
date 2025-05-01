@@ -47,23 +47,33 @@ Using gestures (like raising fingers), users can wirelessly:
 #### 🔘 Gesture Examples:
 
 <div align="center">
+
   <h4>Led 1 On</h4>
-  <img src="Diagram/Led 1 On.jpg" width="200"/>
+  <img src="Diagram/Led%201%20On.jpg" width="200"/>
+
   <h4>Led 1 Off</h4>
-  <img src="Diagram/Led 1 Off.jpg" width="200"/>
-  <h4>All Leds On</h4>
-  <img src="Diagram/All Leds On.jpg" width="200"/>
-  <h4>All Leds Off</h4>
-  <img src="Diagram/All Leds Off.jpg" width="200"/>
+  <img src="Diagram/Led%201%20Off.jpg" width="200"/>
+
+  <h4>All LEDs On</h4>
+  <img src="Diagram/All%20Leds%20On.jpg" width="200"/>
+
+  <h4>All LEDs Off</h4>
+  <img src="Diagram/All%20Leds%20Off.jpg" width="200"/>
+
   <h4>Fan On</h4>
-  <img src="Diagram/Fan On.jpg" width="200"/>
+  <img src="Diagram/Fan%20On.jpg" width="200"/>
+
   <h4>Fan Off</h4>
-  <img src="Diagram/Fan Off.jpg" width="200"/>
+  <img src="Diagram/Fan%20Off.jpg" width="200"/>
+
   <h4>Led 2 On</h4>
-  <img src="Diagram/Led 2 On.jpg" width="200"/>
+  <img src="Diagram/Led%202%20On.jpg" width="200"/>
+
   <h4>Led 2 Off</h4>
-  <img src="Diagram/Led 2 Off.jpg" width="200"/>
+  <img src="Diagram/Led%202%20Off.jpg" width="200"/>
+
 </div>
+
 
 ---
 
