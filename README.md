@@ -41,27 +41,6 @@ graph TD
 - Proteus (for simulation)
 - MediaPipe, OpenCV, TensorFlow Lite
 
-### Setup Instructions
-1. Clone this repository:
-```bash
-git clone https://github.com/your-KhawlahUP/Smart-Glasses-Remote-Control.git
-```
-
-2. Install the required Python packages:
-```bash
-pip install -r requirements.txt
-```
-
-3. Flash the ESP8266 with the provided firmware and configure Wi-Fi and MQTT settings.
-
-4. Connect the Raspberry Pi with the camera and load the Python scripts.
-
-5. Run the server:
-```bash
-python server.py
-```
-
-6. Wear the smart glasses, perform the predefined hand gestures, and start controlling your smart devices!
 
 ---
 
